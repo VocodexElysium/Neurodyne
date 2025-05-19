@@ -1,2 +1,1 @@
-# Neurodyne
-Neurodyne Demo Page
+This is the demopage for Neurodyne.
